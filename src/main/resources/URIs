@@ -1,0 +1,6 @@
+/orders
+/orders/{id}
+/products
+/products/{id}
+/customers
+/customers/{id}
